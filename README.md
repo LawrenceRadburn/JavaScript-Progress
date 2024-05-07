@@ -17,3 +17,5 @@ This journey official began on April 25th, 2024.
 | 4 | FCC Roleplaying Game | 28/04/2024 | HTML, CSS, JavaScript |
 | 5 | Calculator | 05/05/2024 | HTML, CSS, JavaScript |
 | 6 | FCC Calorie Counter | 05/06/2024 | HTML, CSS, JavaScript |
+| 7 | Color Flipper (No Tutorial) | 05/07/2024 | HTML, CSS, JavaScript |
+| 8 | Color Flipper (With Tutorial) | 05/07/2024 | HTML, CSS, JavaScript |
