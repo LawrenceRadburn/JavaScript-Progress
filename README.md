@@ -11,10 +11,10 @@ This journey official began on April 25th, 2024.
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
-| 1 | Stopwatch | 25/04/2024 | HTML, CSS, JavaScript |
-| 2 | Digital Clock | 28/04/2024 | HTML, CSS, JavaScript |
-| 3 | FCC Pyramid Generator | 28/04/2024 | HTML, CSS, JavaScript |
-| 4 | FCC Roleplaying Game | 28/04/2024 | HTML, CSS, JavaScript |
+| 1 | Stopwatch | 04/25/2024 | HTML, CSS, JavaScript |
+| 2 | Digital Clock | 04/28/2024 | HTML, CSS, JavaScript |
+| 3 | FCC Pyramid Generator | 04/28/2024 | HTML, CSS, JavaScript |
+| 4 | FCC Roleplaying Game | 04/28/2024 | HTML, CSS, JavaScript |
 | 5 | Calculator | 05/05/2024 | HTML, CSS, JavaScript |
 | 6 | FCC Calorie Counter | 05/06/2024 | HTML, CSS, JavaScript |
 | 7 | Color Flipper (No Tutorial) | 05/07/2024 | HTML, CSS, JavaScript |
