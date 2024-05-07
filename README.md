@@ -11,7 +11,7 @@ This journey official began on April 25th, 2024.
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
-| 1 | Stopwatch | 04/25/2024 | HTML, CSS, JavaScript |
+| 1 | <a href="https://github.com/LawrenceRadburn/Stopwatch">Stopwatch</a> | 04/25/2024 | HTML, CSS, JavaScript |
 | 2 | Digital Clock | 04/28/2024 | HTML, CSS, JavaScript |
 | 3 | FCC Pyramid Generator | 04/28/2024 | HTML, CSS, JavaScript |
 | 4 | FCC Roleplaying Game | 04/28/2024 | HTML, CSS, JavaScript |
