@@ -19,3 +19,4 @@ This journey official began on April 25th, 2024.
 | 6 | FCC Calorie Counter | 05/06/2024 | HTML, CSS, JavaScript |
 | 7 | Color Flipper (No Tutorial) | 05/07/2024 | HTML, CSS, JavaScript |
 | 8 | Color Flipper (With Tutorial) | 05/07/2024 | HTML, CSS, JavaScript |
+| 9 | <a href="https://github.com/LawrenceRadburn/FCC-Music-Player">FCC Music Player</a> | 05/18/2024 | JavaScript |
