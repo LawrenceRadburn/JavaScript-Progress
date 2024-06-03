@@ -22,3 +22,4 @@ This journey official began on April 25th, 2024.
 | 9 | <a href="https://github.com/LawrenceRadburn/Celcius-to-Fahrenheit-Converter">Celcius to Fahrenheit Converter</a> | 05/15/2024 | HTML, CSS, JavaScript |
 | 10 | <a href="https://github.com/LawrenceRadburn/FCC-Music-Player">FCC Music Player</a> | 05/18/2024 | JavaScript |
 | 11 | <a href="https://github.com/LawrenceRadburn/FCC-Rock-Paper-Scissors">FCC Rock Paper Scissors Game</a> | 05/25/2024 | JavaScript |
+| 12 | <a href="https://github.com/LawrenceRadburn/Color-Swapper-2.0">Color Swapper 2.0</a> | 06/03/2024 | HTML, CSS, JavaScript |
